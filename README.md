@@ -1,27 +1,22 @@
-# Movie-Maker-NewVersion
-A MERN Movie Maker App with GraphQL, ReactJS, MongoDB &amp; Apollo
+# Poyecto
 
 #######################################
 
-Use 2 DIFFERENT terminals for backend and frontend so they can keep running simultaneously.
+Ejecutamos los 2 proyectos de Back y Front a la vez
 
 #######################################
 
-Steps to RUN the application:
+Front ====================================
 
-1- Download the ZIP file.
-
-For Frontend====================================
-
-2- Navigate to Frontend directory by running "cd frontend"
+2- Nos ubicamos en la carpeta de front con cd Front
 
 3- npm i
 
 4- npm start
 
-For Backend=====================================
+Backend=====================================
 
-5- Navigate to Backend directory by running "cd backend"
+5- Nos ubicamos en la carpeta de Back con cd Back
 
 6- npm i
 
